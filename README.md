@@ -18,6 +18,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
+## Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=idfc-jian&layout=compact)
+
 
 ## 📫 How to reach me:
 
