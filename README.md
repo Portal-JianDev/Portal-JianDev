@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3.5em; color: #2C3E50; letter-spacing: 1.5px; text-transform: uppercase; font-weight: bold; padding: 20px 0;">Hi, my name is Jian 🚀</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 3.5em; color: #2C3E50; letter-spacing: 1.5px; text-transform: uppercase; font-weight: bold; padding: 20px 0;">Hi, my name is Jian</h1>
 <p align="center" style="font-family: 'Arial', sans-serif; font-size: 1.2em; color: #34495E; line-height: 1.6; max-width: 800px; margin: 0 auto; padding: 0 20px;">
   I'm a web developer passionate about creating clean, responsive and easy to use sites. My focus is on delivering intuitive experiences and maintaining clean code. Outside of code, I like to experiment with design and collaborate on creative projects.
 </p>
