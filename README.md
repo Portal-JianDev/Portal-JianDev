@@ -6,8 +6,6 @@
  Apasionado por crear aplicaciones web útiles y atractivas, con enfoque en el trabajo en equipo y el aprendizaje constante.
 </p>
 
----
-
 ### Programming
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
