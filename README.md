@@ -1,9 +1,9 @@
 <h1 align="center" style="font-size: 3em; color: #2C3E50; font-weight: bold; text-transform: uppercase;"> 
-  I'm Jian, and here you will find some of my personal projects.
+ Aquí encontrará algunos de mis proyectos personales.
 </h1>
 
 <p align="center" style="font-size: 1.1em; color: #34495E; max-width: 700px; margin: 0 auto; line-height: 1.6;">
- Web developer with a focus on creating clean, adaptive and user-centric interfaces. I prioritize maintainable code and enjoy combining functionality with good design.
+ Apasionado por crear aplicaciones web útiles y atractivas, con enfoque en el trabajo en equipo y el aprendizaje constante.
 </p>
 
 ---
