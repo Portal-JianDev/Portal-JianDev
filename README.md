@@ -1,5 +1,4 @@
 <h1 align="center" style="font-size: 3em; color: #2C3E50; font-weight: bold; text-transform: uppercase;"> 
-  Welcome, developer!
   I'm Jian, and here you will find some of my personal projects.
 </h1>
 
