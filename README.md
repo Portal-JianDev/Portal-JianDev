@@ -1,14 +1,13 @@
-<h1 align="center" style="font-size: 3em; color: #2C3E50; font-weight: bold; text-transform: uppercase;">
-  Hi, I'm Jian
+<h1 align="center" style="font-size: 3em; color: #2C3E50; font-weight: bold; text-transform: uppercase;"> 
+  Welcome, developer!
+  I'm Jian, and here you will find some of my personal projects.
 </h1>
 
 <p align="center" style="font-size: 1.1em; color: #34495E; max-width: 700px; margin: 0 auto; line-height: 1.6;">
-  Web developer focused on building clean, responsive, and intuitive experiences. I enjoy writing maintainable code, exploring design, and collaborating on creative projects.
+ Web developer with a focus on creating clean, adaptive and user-centric interfaces. I prioritize maintainable code and enjoy combining functionality with good design.
 </p>
 
 ---
-
-## 🔧 Languages & Tools
 
 ### Programming
 
