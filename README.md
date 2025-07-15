@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="font-size: 1.1em; color: #34495E; max-width: 700px; margin: 0 auto; line-height: 1.6;">
- Apasionado por crear aplicaciones web útiles y atractivas, con enfoque en el trabajo en equipo y el aprendizaje constante.
+ Me motiva contribuir con soluciones que generen impacto real, siempre con un enfoque colaborativo, valorando el trabajo en equipo y el aprendizaje continuo como pilares para crecer y mejorar cada día.
 </p>
 
 ### Programming
