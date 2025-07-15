@@ -1,5 +1,5 @@
 <h1 align="center" style="font-size: 3em; color: #2C3E50; font-weight: bold; text-transform: uppercase;"> 
- Here you will find some of my personal projects
+ « Here you will find some of my personal projects »
 </h1>
 
 <p align="center" style="font-size: 1.1em; color: #34495E; max-width: 700px; margin: 0 auto; line-height: 1.6;">
