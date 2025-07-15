@@ -1,9 +1,9 @@
 <h1 align="center" style="font-size: 3em; color: #2C3E50; font-weight: bold; text-transform: uppercase;"> 
- Aquí encontrará algunos de mis proyectos personales.
+ Here you will find some of my personal projects
 </h1>
 
 <p align="center" style="font-size: 1.1em; color: #34495E; max-width: 700px; margin: 0 auto; line-height: 1.6;">
- Me motiva contribuir con soluciones que generen impacto real, siempre con un enfoque colaborativo, valorando el trabajo en equipo y el aprendizaje continuo como pilares para crecer y mejorar cada día.
+ I am driven to create solutions with real impact. I work with a collaborative approach that drives teamwork and continuous learning. These values are the basis to improve and grow every day.
 </p>
 
 ### Programming
